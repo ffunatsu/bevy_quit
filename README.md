@@ -28,6 +28,12 @@ fn main() {
 }
 ```
 
+## Versions
+
+| bevy  | bevy_quit           |
+|-------|---------------------|
+| 0.12  | 0.1                 |
+
 ## Contributing
 
 Contributions are more than welcome. However, to make code more standard,

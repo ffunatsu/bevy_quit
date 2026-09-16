@@ -12,7 +12,6 @@ keywords = [
     "bevy-plugin"
 ]
 categories = ["game-engines"]
-license = "Apache-2.0"
 license-file = "LICENSE"
 repository = "https://github.com/jotare/bevy_quit"
 

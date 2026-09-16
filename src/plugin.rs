@@ -1,5 +1,4 @@
 use bevy::app::AppExit;
-use bevy::input::keyboard::KeyboardInput;
 use bevy::prelude::*;
 
 use crate::KeyBinding;
